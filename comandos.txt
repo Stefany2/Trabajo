@@ -1,0 +1,11 @@
+COMANDOS:
+
+git add. =añidir todo los cambios
+
+git commit -m = Escriba un comentario
+
+CLEAR= limpiar mi git
+
+git config --list _ listado
+
+
